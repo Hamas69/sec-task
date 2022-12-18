@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.Net.Sdk">
+
+	<PropertyGroup>
+		<TargetGroup>net6.0</TargetGroup>
+		<OutputType>Exe</OutputType>
+		<LangVersion>latest</LangVersion>
+	</LangVersion>
+</PorpertyGroup>
+
+</Project>
